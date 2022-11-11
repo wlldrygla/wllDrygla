@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @wllDrygla
-- 👀 I’m interested in get knowledge for work
-- 🌱 I’m currently learning how to use git
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: 
-
-<!---
-wllDrygla/wllDrygla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, eu sou o WiLL, Willian Drygla
+Tenho interesse em QA, testes e DEV (preciso me decidir hahaha)
+Tenho um emprego 'comum' e estou tentando migrar para a área Tech
+Estou criando um projeto chamado 'Hospeda-aí' na intenção de criar e hospedar gratuitamente currículos, portfólios, páginas e assim por diante!
+Gosto muito de aprender coisas novas.

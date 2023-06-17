@@ -1,4 +1,4 @@
 - Olá, eu sou o WiLL, Willian Drygla
-- Tenho interesse em QA, testes e DEV 
-- Tenho um emprego 'comum' e estou tentando migrar para a área Tech
+- Tenho interesse em tudo que envolve desenvolvimento de software
+- Atualmente atuando como QA
 - Gosto muito de aprender coisas novas.

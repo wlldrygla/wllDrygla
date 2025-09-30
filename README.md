@@ -2,26 +2,25 @@
 
 
 <h1>-  😁  Hello, I'm WiLL</h1>
-<h4>-   👨🏼‍💻    I am an QA Automation Engineer</h4>
-<h4>-   🖥     I have expertise in Cypress, AWS and Typescript</h4>
-<h4>-   💾    I really enjoy working with Quality process and test automation</h4>
+<h4>-   👨🏼‍💻 I'm a Software Engineer who loves coding, solving problems, and automating processes. </h4>
+<h4>-   🖥 I'm 25 years old, living in the south of Brazil, and I have a 1-year-old son.</h4>
+<h4>-   💾  I spend my time making pizzas and barbecues, and also enjoying a good chimarrão!</h4>
 
   </br>
   </br>
-     <div align='center'>
-         <img width='500' src='https://static.vecteezy.com/system/resources/previews/003/612/702/original/qa-quality-assurance-concept-with-icon-set-with-big-word-free-vector.jpg'/>
-   </div>
   </br>
    </br>
-   <h3>-   💾     I love coding, Chimarrão and reading</h3>
+   <h3>-   💾 I have expertise in Typescript, Node, Quality Assurance and AWS</h3>
+   <h3>-   👨🏼‍💻 I currently work with Node, Typescript, AWS and GitLab, Nightwatch and Gatling.js</h3>
+
   </br>
 
   <div align="center"> 
        <img height='100' align='left' width='100' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
        <img height='100' align='left' width='100' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-               <img height='100' align='left' width='100' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+       <img height='100' align='left' width='100' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
        <a href='https://www.linkedin.com/in/wdrygla/'>
-          <img height='100' align='right' width='100' src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+        <img height='100' align='right' width='100' src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
        </a>
   </div>
   </div>

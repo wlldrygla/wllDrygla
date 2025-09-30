@@ -12,6 +12,7 @@
    </br>
    <h3>-   💾 I have expertise in Typescript, Node, Quality Assurance and AWS</h3>
    <h3>-   👨🏼‍💻 I currently work with Node, Typescript, AWS and GitLab, Nightwatch and Gatling.js</h3>
+   <h3>-   🖥 I'm studyng and making a few projects with AI agents, using VoltAgent</h3>
 
   </br>
 
